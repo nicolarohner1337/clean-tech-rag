@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "clean-tech-rag"
+version = "0.1.0"
+description = ""
+authors = [ "Etienne Roulet <etienne.roulet@student.fhnw.ch>","Janis Frölich <janis.frölich@students.fhnw.ch>","Nicola Rohner <nicola.rohner@students.fhnw.ch>", "Patrick Schürmann <patrick.schürmann@students.fhnw.ch>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
