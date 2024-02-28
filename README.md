@@ -34,3 +34,7 @@ poetry shell
 poetry add <package-name>
 ```
 
+### Removing Dependencies
+```bash
+poetry remove <package-name>
+```
