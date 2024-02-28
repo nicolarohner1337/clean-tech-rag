@@ -38,3 +38,8 @@ poetry add <package-name>
 ```bash
 poetry remove <package-name>
 ```
+
+### Export Notebook to HTML
+```bash
+jupyter nbconvert --to html --template pj "clean-tech-rag.ipynb"
+```
