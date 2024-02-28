@@ -7,7 +7,7 @@ Welcome to Clean Tech RAG! This project uses [Poetry](https://python-poetry.org/
 Before you start, make sure you have Poetry installed. If not, you can install Poetry by following the instructions on the [official documentation](https://python-poetry.org/docs/#installation).
 
 - Add Kaggle API keys in `.env` file
-- - `KAGGLE_username` & `KAGGLE_key`
+  - `KAGGLE_username` & `KAGGLE_key`
 ## Getting Started
 
 Set this so that the virtual environment is created in the project directory:
