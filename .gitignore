@@ -37,3 +37,6 @@ MANIFEST.in
 /releases/*
 pip-wheel-metadata
 poetry.lock
+
+.env
+data
