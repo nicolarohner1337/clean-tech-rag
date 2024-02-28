@@ -1,6 +1,6 @@
-poet# Project Title
+# Clean Tech RAG
 
-Welcome to [Project Name]! This project uses [Poetry](https://python-poetry.org/) for dependency management and packaging. Poetry provides an easy way to manage project dependencies while ensuring reproducibility and consistency across environments. This guide will help you get started with using Poetry as part of our development workflow.
+Welcome to Clean Tech RAG! This project uses [Poetry](https://python-poetry.org/) for dependency management and packaging. Poetry provides an easy way to manage project dependencies while ensuring reproducibility and consistency across environments. This guide will help you get started with using Poetry as part of our development workflow.
 
 ## Prerequisites
 
