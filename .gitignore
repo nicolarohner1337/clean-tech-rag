@@ -40,3 +40,5 @@ poetry.lock
 
 .env
 data
+
+chroma_db/*

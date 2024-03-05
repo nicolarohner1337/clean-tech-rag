@@ -43,3 +43,10 @@ poetry remove <package-name>
 ```bash
 jupyter nbconvert --to html --template pj "clean-tech-rag.ipynb"
 ```
+
+### TODO
+- [ ] Check if relevant chunks in evaluation data is equal to training data
+  - [ ] If not equal, we can decide chunk size based on the evaluation data
+  - [ ] If yes we need to check how we can tell lama index to read the predefined chunks
+- [ ] Data Cleaning (Allow cookies etc.)
+- [ ] Move this to gitlab because of the size of the db
